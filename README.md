@@ -1,4 +1,4 @@
-# Sprint 2: Pizzabot – Part 2
+# Pizzabot – Part 2
 
 Today's assignment is further develop our Pizzabot with arrays, objects and classes.
 
@@ -31,25 +31,12 @@ Print your menu by using your pizza object's names and prices.
 
 Update the function that calculates the total price to use the object's price instead – so it can handle that the pizzas now have different prices.
 
-### 5. Hand in assignment
-
-As always, when you're done, submit a pull request on GitHub (from your repository into the technigo one) for review. [Read the guide on GitHub](https://guides.github.com/activities/forking/) for more info on how to do this.
 
 ### :books: Reading List
 
 * [MDN - Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 * [MDN - Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 * [MDN – Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
-
----
-
-### :sos: How to get help
-Learning how to think as a web developer is learning how to be an expert in problem solving. So whenever you get stuck start with step 1 and continue until problem solved.
-
-1. Google! In English, type in the error message if there is one, search within the language your're using (ie CSS, JavaScript etc).
-2. Ask your code buddies in your Company.
-3. Ask your fellow students in Slack.
-4. Ask Damien. Please note: we are part of a sharing community - share the answer with your fellows.
 
 ---
 
